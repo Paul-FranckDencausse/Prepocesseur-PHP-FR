@@ -1,12 +1,12 @@
 
 
 # **€-PHP Préprocesseur**  
-*Parce que $ manque cruellement de panache.*  
+*En France on n'a pas de pétrole mais on a du code!*  
 
 ---
 
 ## **Introduction**  
-Salut les Gaulois ! Bienvenue dans le **€-PHP Préprocesseur**, un outil révolutionnaire pour injecter une touche européenne à votre développement PHP. Pourquoi se contenter de `$` alors qu'on peut programmer avec l'élégance de `€` ?  
+Chers irréductibles Gaulois réfractaires à l'impérialisme américain du code. Ce projet est pour vous ainsi que pour toutes nos soeurs et nos frères Européens. Bienvenue dans le **€-PHP Préprocesseur**, un outil révolutionnaire pour injecter une touche européenne à votre développement PHP. Pourquoi se contenter de `$` alors qu'on peut programmer avec l'élégance de `€` ?  
 
 Ce préprocesseur convertit vos variables ultra-chic `€` en les bon vieux `$` de PHP, vous permettant d’écrire votre code comme un bon Français avant de l’exécuter comme tout le monde.  
 
